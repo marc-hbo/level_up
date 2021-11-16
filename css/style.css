@@ -447,6 +447,7 @@ section {
     border-radius: .5rem;
     overflow: hidden;
     padding: 15px;
+    opacity:.3rem;
 }
 
 
