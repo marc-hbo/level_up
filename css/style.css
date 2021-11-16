@@ -443,6 +443,7 @@ section {
 .buy .container {
     width: 80%;
     margin: 50px auto;
+    background: rgba(255, 255, 255, 0.2);
     border: solid .2rem rgba(255, 255, 255, 0.212);
     border-radius: .5rem;
     overflow: hidden;
@@ -505,7 +506,7 @@ input {
     padding: 10px;
     margin: 10px;
     width: 90%;
-    background-color: rgba(235, 233, 233, 0.335);
+    background-color: rgba(235, 233, 233, 0.3);
     font-size: 1.9rem;
     color: white;
     border: none;
